@@ -50,4 +50,4 @@ To run this script, you will need to provide as environment variables, for examp
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/y-vasyunin/news-to-telegram/tree/main?tab=MIT-1-ov-file#readme) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
